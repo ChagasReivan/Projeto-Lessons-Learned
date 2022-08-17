@@ -2,7 +2,6 @@ body {
     background-color:rgb(253, 251, 251);
     padding: 0;
     margin: 0;
-    
 }
 
 #cabecalho {
@@ -47,26 +46,59 @@ a:hover {
     background-color: rgb(52, 1, 1);
 }
 
+#licoes {
+    text-align: center;
+}
+
+
+.licoes {
+    text-align: left;
+    display: inline-block;
+}
+
 
 #licoes_aprendidas {
-
-    margin-left: -10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+    margin-right: 500px;
 }
 
 #licoes_a_aprender {
-    
-    
-    margin-left: -10px;
+    border-radius: 10px;
+    background-color: rgb(52, 1, 1) ;
+    color: white;
+    padding: 5px 5px;
+}
+
+#escrita {
 
 }
+    
+    
 
 article {
-    width: 30%;
+   
+    
 }
 
+
 aside {
-    width: 30%
+    
+    
+
 }
+
+    
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 0.2px 0px;
+}
+
+
 
 
 
